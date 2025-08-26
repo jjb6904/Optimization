@@ -1,2 +1,2 @@
-# Optimization
-optimization
+[파일 실행 방법]
+ - 민서_알고리즘은 main.py를 실행시켜야 최적화 결과가 돌아감
